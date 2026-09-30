@@ -1,0 +1,16 @@
+.sites-runtime
+.openai
+.wrangler
+.vinext
+build
+cloudflare-env.d.ts
+db
+drizzle
+drizzle.config.ts
+examples
+scripts
+vite.config.ts
+dist
+outputs
+work
+.env*
